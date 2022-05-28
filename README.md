@@ -7,16 +7,16 @@ The Azure Web App provides a host service that developers can use it to develop 
 App Link: http://breastcancerprediction1.azurewebsites.net
 
 # Initialize git repo
-git init
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin <github_url>
-git push -u origin main
+1. git init
+2. git add .
+3. git commit -m "first commit"
+4. git branch -M main
+5. git remote add origin <github_url>
+6. git push -u origin main
 
 # To update the modification on GitHUB
 
-git add .
-git commit -m "proper message"
-git push 
+1. git add .
+2. git commit -m "proper message"
+3. git push 
 
