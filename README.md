@@ -19,4 +19,20 @@ App Link: http://breastcancerprediction1.azurewebsites.net
 1. git add .
 2. git commit -m "proper message"
 3. git push 
+4. 
+# To create conda environment
+ 
+ 1. conda create -n env_name python==3.7
+ 
+# configure your conda environment in pycharm
+ 
+1. conda activate env_name
+
+# Install requirements.txt
+
+1. pip install -r requirements.txt
+
+# to create requirements.txt
+
+1. pip freeze>requirements.txt
 
